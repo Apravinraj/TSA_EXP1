@@ -5,7 +5,7 @@
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
 # AIM:
-To Develop a python program to Plot a time series data for analysing the power consumption.
+To Develop a python program to Plot a time series data for analysing Bitcoin price prediction.
 
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
@@ -45,4 +45,4 @@ plt.show()
 
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus the python program for plotting atime series data was executed successfully.
