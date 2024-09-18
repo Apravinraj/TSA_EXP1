@@ -45,4 +45,4 @@ plt.show()
 
 
 # RESULT:
-Thus the python program for plotting atime series data was executed successfully.
+Thus the python program for plotting a time series data was executed successfully.
